@@ -9,6 +9,9 @@ Application web full-stack pour la gestion des cours, classes et utilisateurs da
 
 ---
 
+<img width="1902" height="870" alt="image" src="https://github.com/user-attachments/assets/37a8f866-ff2e-4fe1-b5ff-c4fc16075e44" />
+
+
 ## 📋 Table des matières
 
 - [Vue d'ensemble](#-vue-densemble)
